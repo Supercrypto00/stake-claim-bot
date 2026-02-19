@@ -16,7 +16,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "TON_TOKEN_ICI"
+TOKEN = "8532481098:AAF10wCx_0JChx_2GSZEuSEjZnAq9OUxH4M"
 ADMIN_ID = 123456789  # ton ID telegram
 
 logging.basicConfig(level=logging.INFO)
